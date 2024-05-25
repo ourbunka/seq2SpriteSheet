@@ -1,5 +1,5 @@
 # seq2SpriteSheet
-merge rendered image/animation sequences to a spritesheet for texture/sprite animation
+merge rendered image/animation sequences into a spritesheet for texture/sprite animation
 
 in dir, run 
   >python seq2SpriteSheet.py ./monke 20 5 4 outputTest.png
